@@ -10,70 +10,56 @@
 		<div class="col-md-1"></div>
 		<div class="col-md-10">
 			<ul class="nav nav-tabs" id="myTab" role="tablist">
-				<li class="nav-item" role="presentation">
-					<button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane"
-						type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Matematicas</button>
-				</li>
-				<li class="nav-item" role="presentation">
-					<button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane"
-						type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">Profile</button>
-				</li>
-				<li class="nav-item" role="presentation">
-					<button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane"
-						type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">Contact</button>
-				</li>
-				<li class="nav-item" role="presentation">
-					<button class="nav-link" id="disabled-tab" data-bs-toggle="tab" data-bs-target="#disabled-tab-pane"
-						type="button" role="tab" aria-controls="disabled-tab-pane" aria-selected="false"
-						disabled>Disabled</button>
+				<li *ngFor="let mater of materias; let i = index" class="nav-item" role="presentation" >
+					<button class="nav-link {{ i+1===1? 'active':''}}" id="profile-tab" data-bs-toggle="tab" [attr.data-bs-target]="'#' + mater.id"
+						type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">{{ mater.nombre }}</button>
 				</li>
 			</ul>
 			<div class="tab-content" id="myTabContent">
-				<div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab"
+				<div class="tab-pane fade show active" id="art" role="tabpanel" aria-labelledby="art"
 					tabindex="0">
-					<div id="carouselExample" class="carousel slide">
-						<div class="carousel-inner">
-							<div class="carousel-item active">
-								<p class="text-light">Página - 0001</p>
-								<img src="assets/matematicas/mat-0001.jpg" class="img-fluid" alt="...">
-							</div>
-							<div class="carousel-item">
-								<p class="text-light">Página - 0002</p>
-
-								<img src="assets/matematicas/mat-0002.jpg" class="img-fluid" alt="...">
-							</div>
-							<div class="carousel-item">
-								<p class="text-light">Página - 0003</p>
-
-								<img src="assets/matematicas/mat-0003.jpg" class="img-fluid" alt="...">
-							</div>
-						</div>
-						<button class="carousel-control-prev" type="button" data-bs-target="#carouselExample"
-							data-bs-slide="prev">
-							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-							<span class="visually-hidden">Previous</span>
-						</button>
-						<button class="carousel-control-next" type="button" data-bs-target="#carouselExample"
-							data-bs-slide="next">
-							<span class="carousel-control-next-icon" aria-hidden="true"></span>
-							<span class="visually-hidden">Next</span>
-						</button>
-					</div>
+					<app-cuaderno [cuaderno]="artistica"></app-cuaderno>
 				</div>
-				<div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab"
+				<div class="tab-pane fade" id="cast" role="tabpanel" aria-labelledby="profile-tab"
 					tabindex="0">
-					<h1 class="text-primary m-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda
-						dignissimos culpa fuga quo ex, hic enim perspiciatis ipsa esse eos commodi voluptas corporis rem
-						veniam dolor est amet ea quia.</h1>
+					<app-cuaderno [cuaderno]="castellano"></app-cuaderno>
 				</div>
-				<div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab"
+				<div class="tab-pane fade" id="eFisica" role="tabpanel" aria-labelledby="contact-tab"
 					tabindex="0">
-					<h1 class="text-secondary m-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium,
-						autem? Officiis labore nemo quos quis maxime ex laudantium eligendi beatae nostrum commodi ut
-						illum, obcaecati harum omnis est illo a!</h1>
+					<app-cuaderno [cuaderno]="eFisica"></app-cuaderno>
 				</div>
-				<div class="tab-pane fade" id="disabled-tab-pane" role="tabpanel" aria-labelledby="disabled-tab"
-					tabindex="0">...</div>
+				<div class="tab-pane fade" id="emp" role="tabpanel" aria-labelledby="contact-tab"
+					tabindex="0">
+					<app-cuaderno [cuaderno]="emprendimiento"></app-cuaderno>
+				</div>
+				<div class="tab-pane fade" id="etic" role="tabpanel" aria-labelledby="contact-tab"
+					tabindex="0">
+					<app-cuaderno [cuaderno]="etica"></app-cuaderno>
+				</div>
+				<div class="tab-pane fade" id="ing" role="tabpanel" aria-labelledby="contact-tab"
+					tabindex="0">
+					<app-cuaderno [cuaderno]="ingles"></app-cuaderno>
+				</div>
+				<div class="tab-pane fade" id="nat" role="tabpanel" aria-labelledby="contact-tab"
+					tabindex="0">
+					<app-cuaderno [cuaderno]="naturales"></app-cuaderno>
+				</div>
+				<div class="tab-pane fade" id="mat" role="tabpanel" aria-labelledby="contact-tab"
+					tabindex="0">
+					<app-cuaderno [cuaderno]="matematicas"></app-cuaderno>
+				</div>
+				<div class="tab-pane fade" id="relig" role="tabpanel" aria-labelledby="contact-tab"
+					tabindex="0">
+					<app-cuaderno [cuaderno]="religion"></app-cuaderno>
+				</div>
+				<div class="tab-pane fade" id="soc" role="tabpanel" aria-labelledby="contact-tab"
+					tabindex="0">
+					<app-cuaderno [cuaderno]="sociales"></app-cuaderno>
+				</div>
+				<div class="tab-pane fade" id="tec" role="tabpanel" aria-labelledby="contact-tab"
+					tabindex="0">
+					<app-cuaderno [cuaderno]="tecnologia"></app-cuaderno>
+				</div>
 			</div>
 
 

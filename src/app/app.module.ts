@@ -4,10 +4,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppComponent } from './app.component';
 import { CarouselModule } from 'ngx-owl-carousel-o';
+import { CuadernoComponent } from './cuaderno/cuaderno.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CuadernoComponent,
   ],
   imports: [
     BrowserModule,
