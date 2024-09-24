@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ng build --base-href "https://2014maximo.github.io/cuarto-3/"
-npx angular-cli-ghpages --dir=dist/project-gh-pages/browser/
+npx angular-cli-ghpages --dir=dist/cuarto/

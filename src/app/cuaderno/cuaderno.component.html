@@ -2,7 +2,7 @@
     <div class="carousel-inner">
         <div *ngFor="let cuader of cuaderno; let i = index" class="carousel-item {{ i+1===1? 'active':''}}">
             <p class="text-light">{{cuader.descripcionPagina}}</p>
-            <img src="/assets/{{cuader.ruta}}" class="img-fluid" alt="...">
+            <img src="assets/{{cuader.ruta}}" class="img-fluid" alt="...">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" [attr.data-bs-target]="'#'+[idReferencia]"
