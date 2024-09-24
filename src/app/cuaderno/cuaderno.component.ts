@@ -9,5 +9,6 @@ import { CuadernoModel } from 'src/shared/models/cuaderno.model';
 export class CuadernoComponent {
 
   @Input() cuaderno: CuadernoModel[]=[];
+  @Input() idReferencia: string = '';
 
 }

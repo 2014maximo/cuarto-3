@@ -2,6 +2,10 @@ import { MateriaModel } from "../models/materia.model";
 
 export const MATERIA: MateriaModel[] = [
     {
+        id: 'arit',
+        nombre: 'Aritmética'
+    },
+    {
         id: 'art',
         nombre: 'Artística'
     },

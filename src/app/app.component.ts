@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { OwlOptions } from 'ngx-owl-carousel-o';
+import { C_ARITMETICA } from 'src/shared/constants/aritmetica.cuaderno.constant';
 import { C_ARTISTICA } from 'src/shared/constants/artistica.cuaderno.constant';
 import { C_CASTELLANO } from 'src/shared/constants/castellano.cuaderno.constant';
 import { C_E_FISICA } from 'src/shared/constants/e-fisica.cuaderno.constant';
@@ -21,6 +22,7 @@ import { C_TECNOLOGIA } from 'src/shared/constants/tecnologia.cuaderno.constant'
 export class AppComponent {
   public materias = MATERIA;
   public artistica = C_ARTISTICA;
+  public aritmetica = C_ARITMETICA;
   public castellano = C_CASTELLANO;
   public eFisica = C_E_FISICA;
   public emprendimiento = C_EMPRENDIMIENTO;
