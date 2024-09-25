@@ -1,7 +1,7 @@
 <div id="{{idReferencia}}" class="carousel slide">
     <div class="carousel-inner">
         <div *ngFor="let cuader of cuaderno; let i = index" class="carousel-item {{ i+1===1? 'active':''}}">
-            <p class="text-light">{{cuader.descripcionPagina}}</p>
+            <p class="text-light text-center">{{cuader.descripcionPagina}}</p>
             <img src="assets/{{cuader.ruta}}" class="img-fluid" alt="...">
         </div>
     </div>
