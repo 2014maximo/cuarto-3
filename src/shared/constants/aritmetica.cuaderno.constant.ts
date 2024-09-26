@@ -444,7 +444,5 @@ export const C_ARITMETICA: CuadernoModel[] = [
         descripcionPagina: 'Página 74',
         fecha:'Septiembre 24 de 2024',
         ruta:'aritmetica/aritmetica - 00074.jpg'
-    },
-
-
+    }
 ]
