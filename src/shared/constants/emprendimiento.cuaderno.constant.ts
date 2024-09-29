@@ -3,20 +3,20 @@ import { CuadernoModel } from "../models/cuaderno.model";
 export const C_EMPRENDIMIENTO: CuadernoModel[] = [
     {
         alt: '',
-        descripcionPagina: '',
-        fecha:'Septiembre 18 de 2024',
-        ruta:'emprendimiento/emprendimiento-0001.jpg'
+        descripcionPagina: 'Página 1',
+        fecha:'Septiembre 26 de 2024',
+        ruta:'efisica/efisica - 0001.jpg'
     },
     {
         alt: '',
-        descripcionPagina: '',
-        fecha:'Septiembre 18 de 2024',
-        ruta:'emprendimiento/emprendimiento-0002.jpg'
+        descripcionPagina: 'Página 2',
+        fecha:'Septiembre 26 de 2024',
+        ruta:'efisica/efisica - 0002.jpg'
     },
     {
         alt: '',
-        descripcionPagina: '',
-        fecha:'Septiembre 18 de 2024',
-        ruta:'emprendimiento/emprendimiento-0003.jpg'
+        descripcionPagina: 'Página 3',
+        fecha:'Septiembre 26 de 2024',
+        ruta:'efisica/efisica - 0003.jpg'
     },
 ]
