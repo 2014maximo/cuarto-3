@@ -3,739 +3,739 @@ import { CuadernoModel } from "../models/cuaderno.model";
 export const C_CASTELLANO: CuadernoModel[] = [
     {
         alt: '',
-        descripcionPagina: 'Página 1',
+        descripcionPagina: 'Pagina---1',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0001.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 2',
+        descripcionPagina: 'Pagina---2',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0002.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 3',
+        descripcionPagina: 'Pagina---3',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0003.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 4',
+        descripcionPagina: 'Pagina---4',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0004.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 5',
+        descripcionPagina: 'Pagina---5',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0005.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 6',
+        descripcionPagina: 'Pagina---6',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0006.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 7',
+        descripcionPagina: 'Pagina---7',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0007.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 8',
+        descripcionPagina: 'Pagina---8',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0008.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 9',
+        descripcionPagina: 'Pagina---9',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 0009.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 10',
+        descripcionPagina: 'Pagina---10',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00010.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 11',
+        descripcionPagina: 'Pagina---11',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00011.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 12',
+        descripcionPagina: 'Pagina---12',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00012.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 13',
+        descripcionPagina: 'Pagina---13',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00013.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 14',
+        descripcionPagina: 'Pagina---14',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00014.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 15',
+        descripcionPagina: 'Pagina---15',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00015.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 16',
+        descripcionPagina: 'Pagina---16',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00016.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 17',
+        descripcionPagina: 'Pagina---17',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00017.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 18',
+        descripcionPagina: 'Pagina---18',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00018.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 19',
+        descripcionPagina: 'Pagina---19',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00019.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 20',
+        descripcionPagina: 'Pagina---20',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00020.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 21',
+        descripcionPagina: 'Pagina---21',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00021.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 22',
+        descripcionPagina: 'Pagina---22',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00022.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 23',
+        descripcionPagina: 'Pagina---23',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00023.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 24',
+        descripcionPagina: 'Pagina---24',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00024.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 25',
+        descripcionPagina: 'Pagina---25',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00025.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 26',
+        descripcionPagina: 'Pagina---26',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00026.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 27',
+        descripcionPagina: 'Pagina---27',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00027.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 28',
+        descripcionPagina: 'Pagina---28',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00028.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 29',
+        descripcionPagina: 'Pagina---29',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00029.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 30',
+        descripcionPagina: 'Pagina---30',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00030.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 31',
+        descripcionPagina: 'Pagina---31',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00031.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 32',
+        descripcionPagina: 'Pagina---32',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00032.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 33',
+        descripcionPagina: 'Pagina---33',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00033.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 34',
+        descripcionPagina: 'Pagina---34',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00034.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 35',
+        descripcionPagina: 'Pagina---35',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00035.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 36',
+        descripcionPagina: 'Pagina---36',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00036.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 37',
+        descripcionPagina: 'Pagina---37',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00037.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 38',
+        descripcionPagina: 'Pagina---38',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00038.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 39',
+        descripcionPagina: 'Pagina---39',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00039.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 40',
+        descripcionPagina: 'Pagina---40',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00040.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 41',
+        descripcionPagina: 'Pagina---41',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00041.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 42',
+        descripcionPagina: 'Pagina---42',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00042.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 43',
+        descripcionPagina: 'Pagina---43',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00043.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 44',
+        descripcionPagina: 'Pagina---44',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00044.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 45',
+        descripcionPagina: 'Pagina---45',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00045.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 46',
+        descripcionPagina: 'Pagina---46',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00046.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 47',
+        descripcionPagina: 'Pagina---47',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00047.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 48',
+        descripcionPagina: 'Pagina---48',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00048.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 49',
+        descripcionPagina: 'Pagina---49',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00049.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 50',
+        descripcionPagina: 'Pagina---50',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00050.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 51',
+        descripcionPagina: 'Pagina---51',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00051.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 52',
+        descripcionPagina: 'Pagina---52',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00052.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 53',
+        descripcionPagina: 'Pagina---53',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00053.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 54',
+        descripcionPagina: 'Pagina---54',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00054.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 55',
+        descripcionPagina: 'Pagina---55',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00055.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 56',
+        descripcionPagina: 'Pagina---56',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00056.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 57',
+        descripcionPagina: 'Pagina---57',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00057.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 58',
+        descripcionPagina: 'Pagina---58',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00058.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 59',
+        descripcionPagina: 'Pagina---59',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00059.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 60',
+        descripcionPagina: 'Pagina---60',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00060.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 61',
+        descripcionPagina: 'Pagina---61',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00061.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 62',
+        descripcionPagina: 'Pagina---62',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00062.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 63',
+        descripcionPagina: 'Pagina---63',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00063.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 64',
+        descripcionPagina: 'Pagina---64',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00064.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 65',
+        descripcionPagina: 'Pagina---65',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00065.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 66',
+        descripcionPagina: 'Pagina---66',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00066.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 67',
+        descripcionPagina: 'Pagina---67',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00067.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 68',
+        descripcionPagina: 'Pagina---68',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00068.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 69',
+        descripcionPagina: 'Pagina---69',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00069.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 70',
+        descripcionPagina: 'Pagina---70',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00070.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 71',
+        descripcionPagina: 'Pagina---71',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00071.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 72',
+        descripcionPagina: 'Pagina---72',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00072.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 73',
+        descripcionPagina: 'Pagina---73',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00073.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 74',
+        descripcionPagina: 'Pagina---74',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00074.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 75',
+        descripcionPagina: 'Pagina---75',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00075.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 76',
+        descripcionPagina: 'Pagina---76',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00076.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 77',
+        descripcionPagina: 'Pagina---77',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00077.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 78',
+        descripcionPagina: 'Pagina---78',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00078.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 79',
+        descripcionPagina: 'Pagina---79',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00079.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 80',
+        descripcionPagina: 'Pagina---80',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00080.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 81',
+        descripcionPagina: 'Pagina---81',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00081.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 82',
+        descripcionPagina: 'Pagina---82',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00082.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 83',
+        descripcionPagina: 'Pagina---83',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00083.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 84',
+        descripcionPagina: 'Pagina---84',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00084.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 85',
+        descripcionPagina: 'Pagina---85',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00085.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 86',
+        descripcionPagina: 'Pagina---86',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00086.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 87',
+        descripcionPagina: 'Pagina---87',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00087.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 88',
+        descripcionPagina: 'Pagina---88',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00088.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 89',
+        descripcionPagina: 'Pagina---89',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00089.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 90',
+        descripcionPagina: 'Pagina---90',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00090.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 91',
+        descripcionPagina: 'Pagina---91',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00091.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 92',
+        descripcionPagina: 'Pagina---92',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00092.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 93',
+        descripcionPagina: 'Pagina---93',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00093.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 94',
+        descripcionPagina: 'Pagina---94',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00094.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 95',
+        descripcionPagina: 'Pagina---95',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00095.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 96',
+        descripcionPagina: 'Pagina---96',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00096.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 97',
+        descripcionPagina: 'Pagina---97',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00097.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 98',
+        descripcionPagina: 'Pagina---98',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00098.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 99',
+        descripcionPagina: 'Pagina---99',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 00099.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 100',
+        descripcionPagina: 'Pagina---100',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000100.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 101',
+        descripcionPagina: 'Pagina---101',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000101.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 102',
+        descripcionPagina: 'Pagina---102',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000102.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 103',
+        descripcionPagina: 'Pagina---103',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000103.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 104',
+        descripcionPagina: 'Pagina---104',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000104.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 105',
+        descripcionPagina: 'Pagina---105',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000105.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 106',
+        descripcionPagina: 'Pagina---106',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000106.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 107',
+        descripcionPagina: 'Pagina---107',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000107.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 108',
+        descripcionPagina: 'Pagina---108',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000108.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 109',
+        descripcionPagina: 'Pagina---109',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000109.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 110',
+        descripcionPagina: 'Pagina---110',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000110.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 111',
+        descripcionPagina: 'Pagina---111',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000111.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 112',
+        descripcionPagina: 'Pagina---112',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000112.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 113',
+        descripcionPagina: 'Pagina---113',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000113.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 114',
+        descripcionPagina: 'Pagina---114',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000114.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 115',
+        descripcionPagina: 'Pagina---115',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000115.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 116',
+        descripcionPagina: 'Pagina---116',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000116.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 117',
+        descripcionPagina: 'Pagina---117',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000117.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 118',
+        descripcionPagina: 'Pagina---118',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000118.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 119',
+        descripcionPagina: 'Pagina---119',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000119.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 120',
+        descripcionPagina: 'Pagina---120',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000120.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 121',
+        descripcionPagina: 'Pagina---121',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000121.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 122',
+        descripcionPagina: 'Pagina---122',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000122.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 123',
+        descripcionPagina: 'Pagina---123',
         fecha:'Septiembre 25 de 2024',
         ruta:'castellano/castellano - 000123.jpg'
     },

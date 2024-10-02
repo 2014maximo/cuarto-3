@@ -25,11 +25,15 @@ export const MATERIA: MateriaModel[] = [
         id: 'esta',
         nombre: 'Estadistica'
     },
-/*     {
-        id: 'eti',
+    {
+        id: 'etic',
         nombre: 'Ética'
     },
     {
+        id: 'geo',
+        nombre: 'Geometría'
+    },
+/*    {
         id: 'ing',
         nombre: 'Inglés'
     },
@@ -45,6 +49,7 @@ export const MATERIA: MateriaModel[] = [
         id: 'relig',
         nombre: 'Religión'
     },
+    */
     {
         id: 'soc',
         nombre: 'Sociales'
@@ -52,5 +57,5 @@ export const MATERIA: MateriaModel[] = [
     {
         id: 'tec',
         nombre: 'Tecnología'
-    }, */
+    }
 ]

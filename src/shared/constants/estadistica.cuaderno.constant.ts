@@ -3,145 +3,145 @@ import { CuadernoModel } from "../models/cuaderno.model";
 export const C_ESTADISTICA: CuadernoModel[] = [
     {
         alt: '',
-        descripcionPagina: 'Página 1',
+        descripcionPagina: 'Pagina---1',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0001.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 2',
+        descripcionPagina: 'Pagina---2',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0002.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 3',
+        descripcionPagina: 'Pagina---3',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0003.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 4',
+        descripcionPagina: 'Pagina---4',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0004.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 5',
+        descripcionPagina: 'Pagina---5',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0005.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 6',
+        descripcionPagina: 'Pagina---6',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0006.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 7',
+        descripcionPagina: 'Pagina---7',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0007.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 8',
+        descripcionPagina: 'Pagina---8',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0008.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 9',
+        descripcionPagina: 'Pagina---9',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 0009.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 10',
+        descripcionPagina: 'Pagina---10',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00010.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 11',
+        descripcionPagina: 'Pagina---11',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00011.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 12',
+        descripcionPagina: 'Pagina---12',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00012.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 13',
+        descripcionPagina: 'Pagina---13',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00013.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 14',
+        descripcionPagina: 'Pagina---14',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00014.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 15',
+        descripcionPagina: 'Pagina---15',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00015.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 16',
+        descripcionPagina: 'Pagina---16',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00016.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 17',
+        descripcionPagina: 'Pagina---17',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00017.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 18',
+        descripcionPagina: 'Pagina---18',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00018.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 19',
+        descripcionPagina: 'Pagina---19',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00019.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 20',
+        descripcionPagina: 'Pagina---20',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00020.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 21',
+        descripcionPagina: 'Pagina---21',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00021.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 22',
+        descripcionPagina: 'Pagina---22',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00022.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 23',
+        descripcionPagina: 'Pagina---23',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00023.jpg'
     },
     {
         alt: '',
-        descripcionPagina: 'Página 24',
+        descripcionPagina: 'Pagina---24',
         fecha:'Septiembre 26 de 2024',
         ruta:'estadistica/estadistica - 00024.jpg'
     }

@@ -7,6 +7,7 @@ import { C_E_FISICA } from 'src/shared/constants/efisica.cuaderno.constant';
 import { C_EMPRENDIMIENTO } from 'src/shared/constants/emprendimiento.cuaderno.constant';
 import { C_ESTADISTICA } from 'src/shared/constants/estadistica.cuaderno.constant';
 import { C_ETICA } from 'src/shared/constants/etica.cuaderno.constant';
+import { C_GEOMETRIA } from 'src/shared/constants/geometria.cuaderno.constant';
 import { C_INGLES } from 'src/shared/constants/ingles.cuaderno.constant';
 import { C_MATEMATICAS } from 'src/shared/constants/matematicas.cuaderno.constant';
 import { MATERIA } from 'src/shared/constants/materias.constant';
@@ -29,6 +30,7 @@ export class AppComponent {
   public estadistica = C_ESTADISTICA;
   public emprendimiento = C_EMPRENDIMIENTO;
   public etica = C_ETICA;
+  public geometria = C_GEOMETRIA;
   public ingles = C_INGLES;
   public matematicas = C_MATEMATICAS;
   public naturales = C_NATURALES;
