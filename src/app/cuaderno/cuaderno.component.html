@@ -2,9 +2,9 @@
     <div class="carousel-inner">
         <div *ngFor="let cuader of cuaderno; let i = index" class="carousel-item {{ i+1===1? 'active':''}}">
             <p class="text-light text-center f-open-sans-c fs-30">{{cuader.descripcionPagina}}</p>
-            <div class="m-4 position-absolute z-3">
+<!--             <div class="m-4 position-absolute z-3">
                 <i class="bi bi-arrows-fullscreen text-light fs-30" data-bs-toggle="modal" [attr.data-bs-target]="'#'+ cuader.descripcionPagina +[idReferencia]"></i>
-            </div>
+            </div> -->
             <img src="assets/{{cuader.ruta}}" class="img-fluid" alt="...">
             <div class="modal fade" id="{{cuader.descripcionPagina}}{{idReferencia}}" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered">
